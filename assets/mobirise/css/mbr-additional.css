@@ -1393,6 +1393,29 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #2cd601;
 }
+.cid-rnHWKAbBbA {
+  background: #ffffff;
+}
+.cid-rnHWKAbBbA .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rnHWKAbBbA .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rnHWKAbBbA figcaption {
+  position: relative;
+}
+.cid-rnHWKAbBbA figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rnHWKAbBbA .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rnFOaQuTI5 .navbar {
   background: #ffffff;
   transition: none;
@@ -1793,7 +1816,7 @@ body {
   color: #767676 !important;
 }
 .cid-rnyhxnjbsj {
-  padding-top: 45px;
+  padding-top: 60px;
   padding-bottom: 45px;
   background-color: #000000;
 }
