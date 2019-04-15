@@ -2018,6 +2018,38 @@ body {
     width: 100% !important;
   }
 }
+.cid-rnA7Wv0c9g {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rnA7Wv0c9g .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnA7Wv0c9g B {
+  color: #ff0000;
+}
+.cid-rnA8QSZSiM {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 120px;
+}
+.cid-rnA8QSZSiM .image-block {
+  margin: auto;
+}
+.cid-rnA8QSZSiM figcaption {
+  position: relative;
+}
+.cid-rnA8QSZSiM figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rnA8QSZSiM .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rnyusRUrHU {
   padding-top: 60px;
   padding-bottom: 90px;
@@ -2084,37 +2116,30 @@ body {
 .cid-rnA67b7rre H2 {
   color: #ffffff;
 }
-.cid-rnA7Wv0c9g {
-  padding-top: 60px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rnA7Wv0c9g .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rnA7Wv0c9g B {
-  color: #ff0000;
-}
-.cid-rnA8QSZSiM {
+.cid-rnI2GTzdvm {
   background: #ffffff;
-  padding-top: 30px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-rnA8QSZSiM .image-block {
+.cid-rnI2GTzdvm .image-block {
   margin: auto;
 }
-.cid-rnA8QSZSiM figcaption {
+.cid-rnI2GTzdvm figcaption {
   position: relative;
 }
-.cid-rnA8QSZSiM figcaption div {
+.cid-rnI2GTzdvm figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-rnA8QSZSiM .image-block {
+  .cid-rnI2GTzdvm .image-block {
     width: 100% !important;
   }
+}
+.cid-rnI2GTzdvm DIV {
+  color: #000000;
 }
 .cid-rnHVynv9IS {
   background: #ffffff;
@@ -2160,9 +2185,33 @@ body {
     width: 100% !important;
   }
 }
+.cid-rnI4xZPsdp {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rnI4xZPsdp .line {
+  background-color: #ff0000;
+  color: #ff0000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rnI4xZPsdp .section-text {
+  padding: 2rem 0;
+  color: #ff0000;
+}
+.cid-rnI4xZPsdp .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rnI4xZPsdp .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rnAaXfqgJT {
   background: #ffffff;
-  padding-top: 45px;
+  padding-top: 15px;
   padding-bottom: 90px;
 }
 .cid-rnAaXfqgJT .image-block {
