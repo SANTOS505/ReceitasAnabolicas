@@ -1960,6 +1960,7 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rnHYJdxPn8 .mbr-gallery-item > div {
   position: relative;
@@ -1968,7 +1969,7 @@ body {
   background: transparent !important;
 }
 .cid-rnHYJdxPn8 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.4 !important;
 }
 .cid-rnHYJdxPn8 .mbr-gallery-title {
   font-size: .9em;
@@ -1989,9 +1990,10 @@ body {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.7;
+  opacity: 0.4;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rnysf3iNNG {
   padding-top: 45px;
