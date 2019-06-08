@@ -1894,11 +1894,12 @@ body {
   }
 }
 .cid-rnykQ4VMbS {
-  background: #ff7e0b;
+  background: #000000;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .cid-rnykQ4VMbS .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-rnykQ4VMbS figcaption {
   position: relative;
